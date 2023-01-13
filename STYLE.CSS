@@ -1,0 +1,74 @@
+*
+{
+    margin:0;
+    padding: 0%;
+}
+
+body{
+    background-size: cover;
+}
+
+.ab{
+    color: aliceblue;
+    font-variant: initial;  
+    font-weight: 100;
+    font-style: oblique;
+}
+
+img{
+
+    margin-left: 10%;
+    margin-top: 10px;
+}
+header{
+    background-color: rgb(27, 119, 76);
+}
+.head-tag{
+    float:right;
+    margin-top: 30px;
+    margin-right: 55px;   
+}
+
+.head-tag a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 1px solid whitesmoke;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 8px;
+margin-right: 8px;
+}
+
+.head-tag a:hover{
+    background-color: rgb(61, 70, 64);
+    transition: .5s ease-in-out;
+}
+.bc{
+    color: aliceblue;
+    font-variant: initial;  
+    font-weight: 100;
+    font-style:normal;
+}
+  
+.Login{
+    border: 2px solid rgb(27, 119, 76);
+    padding: 30px;
+float: right;
+background-color:rgb(27, 119, 76);
+
+}
+
+#login-button{
+    width: 100%;
+    background-color:rgb(255, 255, 255);
+}
+.side-bar{
+    color: aliceblue;
+    padding: 85px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.side-bar li{
+    list-style: square;
+    margin-bottom: 5px;
+    
+}
